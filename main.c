@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
- printf("open so\n");
+ printf("open sorce Sw Project\n");
   return 0;
   
   
