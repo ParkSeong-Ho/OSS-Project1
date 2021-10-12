@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
- printf("open sorce Sw Project\n");
+ printf("open source Sw Project\n");
+ printf("First github traning\n");
   return 0;
-  
-  
 }
