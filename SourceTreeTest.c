@@ -1,8 +1,5 @@
 ##include <stdio.h>
 
 int main(){
-  printf("First oss code\n", );
-  printf("Second Oss code\n", );
-
-  return 0;
+    printf("메인 브랜치 코드를  추가하였음\n", );
 }
